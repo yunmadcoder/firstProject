@@ -32,6 +32,9 @@ static public Map<String , Object>sessionStorage = AdminController.sessionStorag
     	Admin AD = adminService.adminSignIn(param);
     	
     	System.out.println(AD);
+    	
+    	System.out.println(AD);
+    	
 		
 		
 		
